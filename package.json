@@ -1,0 +1,23 @@
+{
+  "name": "validosik.core.network.simulation",
+  "displayName": "Core.Network Simulation",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "description": "Contracts and helper primitives for networked world simulation flow: simulation systems, rollback/resim, snapshot packing/apply, entity interfaces, and per-tick buffers.",
+  "author": { "name": "validosik" },
+  "dependencies": {
+    "validosik.core.network": "0.0.1"
+  },
+  "keywords": [
+    "core-network",
+    "simulation",
+    "netcode",
+    "contracts",
+    "interfaces",
+    "rollback",
+    "resim",
+    "snapshot",
+    "tick",
+    "unity"
+  ]
+}
